@@ -1,0 +1,8 @@
+.nav-pills .nav-link {
+    color: white;
+    cursor: pointer;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #28a745;
+}
